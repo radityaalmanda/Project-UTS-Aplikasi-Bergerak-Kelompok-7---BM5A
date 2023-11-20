@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="about">Aplikasi ini dibuat oleh :
+        \n\n
+        Setyo Bimantoro (2103421010)
+        \n\n
+        Raditya Almanda (2103421023)
+        \n\n </string>
+
+    <string name="about1">
+        Sebagai Project UTS untuk mata kuliah Aplikasi Bergerak.
+        \n\nAplikasi TicTacToe ini merupakan aplikasi Game yang simple dengan fitur multiplayer secara offline.
+        \n\nSehingga sangat cocok untuk dimainkan dengan teman atau pasangan untuk mengisi waktu luang. </string>
+</resources>
